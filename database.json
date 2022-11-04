@@ -1,0 +1,47 @@
+{"application": {
+  "home" : {
+    "news_id" : "id_berita_yang_trending"
+  },
+  "visi_misi" : {
+    "news_id" : "id_berita_yang_trending"
+  },
+  "news" : {
+    "news_id" : "id_berita_yang_trending",
+    "news_value" : {
+      "title" : "judul",
+      "news_id" : "id_nomor_berita",
+      "category" : "kategori_berita"
+    }
+  },
+  "teacher_profile" : {
+    "role_status" : "pegangan_di_sekolah",
+    "name" : "nama",
+    "foto" : {
+      "id" : "...",
+      "cv" : "..."
+    }
+  },
+  "majoring" : {
+    "jurusan" : "nama_jurusan",
+    "color" : "warna_wearpack"
+  },
+  "achievment" : {
+    "achievment_pict" : "foto_piala",
+    "information_achievment" : {
+      "competition" : "nama_perlombaan_yang_diikuti",
+      "date" : "tanggal_perlombaan",
+      "location" : "tempat_perlombaan",
+      "championship_level" : "tingkat_kejuaraan",
+      "person" : {
+        "name" : "nama_peraih",
+        "majoring" : "jurusan",
+        "biodata" : "data_siswa"
+      }
+    }
+  },
+  "organization" : {
+    "name_of_organization" : "nama_organisasi",
+    "date_formet" : "tanggal_dibuat",
+    "organization_leader" : "pemimpin_organisasi"
+  }
+}}
